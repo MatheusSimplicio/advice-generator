@@ -1,0 +1,77 @@
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+body{
+    background-color: var(--background-color); 
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.card {
+    width: 550px;
+    height: 325px;
+    background-color: var(--advice-card-color);
+    border-radius: 4%;
+    text-align: center;
+}
+
+h3{
+    color: var(--advice-dice-color);
+    font-size: 15px;
+    padding-top: 40px; 
+}
+
+p {
+    font-size: 28px;
+    color: var(--text-color);
+    padding: 6%;
+}
+
+.divider{
+    padding-bottom: 28.55px;
+}
+
+.dice-container, .dice{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dice {
+    width: 60px;
+    height: 60px;
+    background-color: var(--advice-dice-color);
+    border-radius: 50%;
+}
+
+.button:hover{
+    background: var(--advice-dice-color);
+    border-radius: 50%;
+    box-shadow: 0 0 30px var(--advice-dice-color);
+}
+
+
+@media (max-width: 426px) {
+    .card{
+        width: 345px;
+        height: 380px;
+    }   
+}
+
+@media (max-width: 321px) {
+    .card {
+        width: 300px;
+        height: 370px;
+    }
+}
