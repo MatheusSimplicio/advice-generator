@@ -22,10 +22,10 @@ The aim of the challenge is basically to create a responsive profile card layout
 ### Screenshot
 
 ### Desktop Version:
-![image](![desktop-design](https://user-images.githubusercontent.com/79287601/209883756-b823276d-4f8a-4968-96ea-3f075200f19d.jpg))
+![desktop-design](https://user-images.githubusercontent.com/79287601/209883756-b823276d-4f8a-4968-96ea-3f075200f19d.jpg)
 
 ### Mobile Version:
-![image](![mobile-design](https://user-images.githubusercontent.com/79287601/209883797-58d870fe-603d-485d-a8e5-bcd1683197e2.jpg))
+![mobile-design](https://user-images.githubusercontent.com/79287601/209883797-58d870fe-603d-485d-a8e5-bcd1683197e2.jpg)
 
 ### Links
 
