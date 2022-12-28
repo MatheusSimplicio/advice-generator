@@ -29,7 +29,7 @@ The aim of the challenge is basically to create a responsive profile card layout
 
 ### Links
 
-- Solution URL: [Click here!]()
+- Solution URL: [Click here!](https://matheussimplicio.github.io/advice-generator/)
 
 ## My process
 
